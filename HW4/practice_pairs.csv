@@ -1,0 +1,11 @@
+pair_id,start,target,difficulty
+1,https://en.wikipedia.org/wiki/Cricket,https://en.wikipedia.org/wiki/Industrial_Revolution,easy
+2,https://en.wikipedia.org/wiki/Coffee,https://en.wikipedia.org/wiki/Ancient_Greece,easy
+3,https://en.wikipedia.org/wiki/Samurai,https://en.wikipedia.org/wiki/Buddhism,easy
+4,https://en.wikipedia.org/wiki/Photosynthesis,https://en.wikipedia.org/wiki/World_War_II,medium
+5,https://en.wikipedia.org/wiki/Chocolate,https://en.wikipedia.org/wiki/Roman_law,medium
+6,https://en.wikipedia.org/wiki/Ballet,https://en.wikipedia.org/wiki/Computer_science,medium
+7,https://en.wikipedia.org/wiki/Jazz,https://en.wikipedia.org/wiki/Mathematics,hard
+8,https://en.wikipedia.org/wiki/Yoga,https://en.wikipedia.org/wiki/Nuclear_physics,hard
+9,https://en.wikipedia.org/wiki/Telescope,https://en.wikipedia.org/wiki/Renaissance,medium
+10,https://en.wikipedia.org/wiki/Haiku,https://en.wikipedia.org/wiki/Plate_tectonics,hard

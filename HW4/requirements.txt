@@ -1,0 +1,5 @@
+# No packages required to run score.py or the barebones agent.py.
+# Both use Python stdlib only.
+#
+# If your agent uses additional packages (e.g. requests, openai, anthropic),
+# add them here and make sure they are installed before the scorer runs.
