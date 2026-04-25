@@ -22,8 +22,8 @@ You do not know in advance how many pairs you will be evaluated on. Your agent m
 
 ## What to submit
 
-1. **`alice_bob.py`** — your agent file, renamed with both team members' first names separated by an underscore (e.g. `alice_bob.py`)
-2. **`alice_bob_writeup.md`** — a one-page markdown file, same naming convention, responding to the two questions below
+1. `**alice_bob.py`** — your agent file, renamed with both team members' first names separated by an underscore (e.g. `alice_bob.py`)
+2. `**alice_bob_writeup.md**` — a one-page markdown file, same naming convention, responding to the two questions below
 
 ---
 
